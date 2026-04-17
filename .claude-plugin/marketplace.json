@@ -1,0 +1,19 @@
+{
+  "name": "sammons-marketplace",
+  "description": "Ben Sammons' Claude Code plugins",
+  "owner": {
+    "name": "Ben Sammons",
+    "email": "ben@sammons.io"
+  },
+  "plugins": [
+    {
+      "name": "fancy-gdocs",
+      "description": "Google Docs DSL compiler — write docs in JSON, get formatted documents",
+      "source": {
+        "source": "github",
+        "repo": "Sammons/fancy-gdocs"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}
